@@ -1,0 +1,10 @@
+[user]
+	email = ruenan@mail.uc.edu
+	name = Aaron Ruen
+[push]
+	default = simple
+[core]
+	excludesfile = ~/.gitignore
+	editor = nano
+[meld]
+	tool = meld
